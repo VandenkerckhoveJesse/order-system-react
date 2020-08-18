@@ -1,0 +1,91 @@
+{
+  "categories": [
+    {
+      "id": "gjekjfiajkdjf",
+      "name": "Suspension",
+      "image": "default.png",
+      "favorite": false,
+      "products" : [
+        {
+          "id" : "jakldjfoiaji",
+          "name": "Ford suspension",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        },
+        {
+          "id" : "fakldafoiaji",
+          "name": "Kia suspension",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        },
+        {
+          "id" : "jakldjfodaji",
+          "name": "Opel suspension",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        }
+      ]
+    },
+    {
+      "id": "randomgenertoed",
+      "name": "Engine",
+      "image": "default.png",
+      "favorite": false,
+      "products" : [
+        {
+          "id" : "jkfjakjddf",
+          "name": "V8 engine",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        },
+        {
+          "id" : "fjghiehfe",
+          "name": "Type 6 Engine",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        },
+        {
+          "id" : "wjckhfyefey",
+          "name": "Ford engine",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        }
+      ]
+    },
+    {
+      "id": "jioyfaouiiuf",
+      "name": "Transmission",
+      "image": "default.png",
+      "favorite": false,
+      "products" : [
+        {
+          "id" : "jakadffoiaji",
+          "name": "Automatic transmission",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        },
+        {
+          "id" : "jakldjfodfafi",
+          "name": "Manual transmission",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        },
+        {
+          "id" : "jaxxxdjfoiaji",
+          "name": "F1 transmission",
+          "favorite": false,
+          "image": "default.png",
+          "price" : 20
+        }
+      ]
+    }
+  ]
+}

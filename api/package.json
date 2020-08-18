@@ -1,0 +1,10 @@
+{
+  "name": "order-mock-api",
+  "version": "1.0.0",
+  "description": "A mock api for the order project",
+  "main": "index.js",
+  "author": "Jesse Vandenkerckhove",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
