@@ -53,7 +53,7 @@ export function createCategoryStore(){
 
         },
         fetchCategories() {
-            
+
         }
     }
 }

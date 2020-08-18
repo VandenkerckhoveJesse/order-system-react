@@ -4,88 +4,93 @@
       "id": "gjekjfiajkdjf",
       "name": "Suspension",
       "image": "default.png",
-      "favorite": false,
-      "products" : [
-        {
-          "id" : "jakldjfoiaji",
-          "name": "Ford suspension",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        },
-        {
-          "id" : "fakldafoiaji",
-          "name": "Kia suspension",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        },
-        {
-          "id" : "jakldjfodaji",
-          "name": "Opel suspension",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        }
-      ]
+      "favorite": false
     },
     {
       "id": "randomgenertoed",
       "name": "Engine",
       "image": "default.png",
-      "favorite": false,
-      "products" : [
-        {
-          "id" : "jkfjakjddf",
-          "name": "V8 engine",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        },
-        {
-          "id" : "fjghiehfe",
-          "name": "Type 6 Engine",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        },
-        {
-          "id" : "wjckhfyefey",
-          "name": "Ford engine",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        }
-      ]
+      "favorite": false
     },
     {
       "id": "jioyfaouiiuf",
       "name": "Transmission",
       "image": "default.png",
+      "favorite": false
+    }
+  ],
+  "products": [
+    {
+      "id" : "jakadffoiaji",
+      "category_id": "jioyfaouiiuf",
+      "name": "Automatic transmission",
       "favorite": false,
-      "products" : [
-        {
-          "id" : "jakadffoiaji",
-          "name": "Automatic transmission",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        },
-        {
-          "id" : "jakldjfodfafi",
-          "name": "Manual transmission",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        },
-        {
-          "id" : "jaxxxdjfoiaji",
-          "name": "F1 transmission",
-          "favorite": false,
-          "image": "default.png",
-          "price" : 20
-        }
-      ]
+      "image": "default.png",
+      "price" : 20
+    },
+    {
+      "id" : "jakldjfodfafi",
+      "category_id": "jioyfaouiiuf",
+      "name": "Manual transmission",
+      "favorite": false,
+      "image": "default.png",
+      "price" : 20
+    },
+    {
+      "id" : "jaxxxdjfoiaji",
+      "category_id": "jioyfaouiiuf",
+      "name": "F1 transmission",
+      "favorite": false,
+      "image": "default.png",
+      "price" : 20
+    },
+    {
+      "id" : "jkfjakjddf",
+      "category_id": "randomgenertoed",
+      "name": "V8 engine",
+      "favorite": false,
+      "image": "default.png",
+      "price" : 20
+    },
+    {
+      "id" : "fjghiehfe",
+      "category_id": "randomgenertoed",
+      "name": "Type 6 Engine",
+      "favorite": false,
+      "image": "default.png",
+      "price" : 20
+    },
+    {
+      "id" : "wjckhfyefey",
+      "category_id": "randomgenertoed",
+      "name": "Ford engine",
+      "favorite": false,
+      "image": "default.png",
+      "price" : 20
+    },
+    {
+      "id" : "jakldjfoiaji",
+      "category_id": "gjekjfiajkdjf",
+      "name": "Ford suspension",
+      "favorite": false,
+      "image": "default.png",
+      "price" : 20
+    },
+    {
+      "id" : "fakldafoiaji",
+      "category_id": "gjekjfiajkdjf",
+      "name": "Kia suspension",
+      "favorite": false,
+      "image": "default.png",
+      "price" : 20
+    },
+    {
+      "id" : "jakldjfodaji",
+      "category_id": "gjekjfiajkdjf",
+      "name": "Opel suspension",
+      "favorite": false,
+      "image": "default.png",
+      "price" : 20
     }
   ]
 }
