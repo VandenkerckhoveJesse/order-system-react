@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import {CategoryProvider} from "./contexts/CategoryContext";
+import {CategoryProvider} from "./contexts/OrderSystemContext";
 
 ReactDOM.render(
   <React.StrictMode>
