@@ -50,6 +50,9 @@ export function createCategoryStore(){
 
         },
         save() {
+
+        },
+        fetchCategories() {
             
         }
     }
